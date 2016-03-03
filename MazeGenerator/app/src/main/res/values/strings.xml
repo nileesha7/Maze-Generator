@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MazeGenerator</string>
+    <string name="newgame">Rescue</string>
+    <string name="quit">Quit</string>
+    <string name="instruction">Bobo is lost! Can you help him find his way back? \n Drag your finger to bring him home. </string>
+</resources>
